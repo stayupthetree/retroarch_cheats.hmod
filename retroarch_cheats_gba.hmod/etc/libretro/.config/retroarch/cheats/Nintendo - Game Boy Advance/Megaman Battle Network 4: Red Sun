@@ -1,0 +1,17 @@
+cheats = 4 
+
+cheat0_desc = "Enable Code (Must Be On)"
+cheat0_code = "9F6637CD47C3+8BE829F64B66+E8EAE8B3494F"
+cheat0_enable = false 
+
+cheat1_desc = "Free Net Deals"
+cheat1_code = "7200A512+0002+4201A006+0000+00000005+0008"
+cheat1_enable = false 
+
+cheat2_desc = "Infinite GMD"
+cheat2_code = "8200A54C+0000"
+cheat2_enable = false 
+
+cheat3_desc = "Infinite Zenny from GMD"
+cheat3_code = "8200A554+FFFF+8200A556+0FFF"
+cheat3_enable = false
